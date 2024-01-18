@@ -1,4 +1,4 @@
-# fc-notebook
+# Function Calling Agents
 
 Virtualenv & install dependencies
 ```shell
